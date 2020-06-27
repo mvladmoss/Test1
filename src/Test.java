@@ -3,5 +3,7 @@ public class Test {
         System.out.println("Version2");
 
         System.out.println("Version2");
+
+        System.out.println("Version3");
     }
 }
